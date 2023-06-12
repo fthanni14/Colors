@@ -1,0 +1,129 @@
+h2 a:hover,
+    h2 a:active {
+      color: #ff0000;
+      text-decoration: underline;
+    }
+
+
+
+
+
+h2:first-of-type.a:hover {
+		width: 300px;
+		background-color: #FF9F9F;
+		
+}
+span.a{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: red;
+}
+mark.a {
+	background-color: #FF9F9F;
+	color: red;
+}
+
+h2.o:hover {
+		width: 300px;
+		background-color: #FFB84C;
+}
+span.o{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: orange;
+}
+mark.o {
+	background-color: #FFB84C;
+	color: orange;
+}
+
+h2.y:hover {
+		width: 300px;
+		background-color: #F6FFA6;
+}
+span.y{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: yellow;
+}
+mark.y {
+	background-color: #F6FFA6;
+	color: yellow;
+}
+
+h2.g:hover {
+		width: 300px;
+		background-color: #C9F4AA;
+}
+span.g{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: green;
+}
+mark.g {
+	background-color: #C9F4AA;
+	color: green;
+}
+
+h2.b:hover {
+		width: 300px;
+		background-color: #8696FE;
+}
+span.b{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: blue;
+}
+mark.b {
+	background-color: #8696FE;
+	color: blue;
+}
+
+h2.i:hover {
+		width: 300px;
+		background-color: #46458C;
+}
+span.i{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: indigo;
+}
+mark.i {
+	background-color: #46458C;
+	color: indigo;
+}
+
+h2.v:hover {
+		width: 300px;
+		background-color: #E1AEFF;
+}
+span.v{
+	float: left;
+    font-size: 40px;
+	font-family: Times New Roman;
+    line-height: 40px;
+    margin-right: 5px;
+    color: violet;
+}
+mark.v {
+	background-color: #E1AEFF;
+	color: violet;
+}

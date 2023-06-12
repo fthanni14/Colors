@@ -1,0 +1,27 @@
+	h2:first-of-type {
+	font-family: Times New Roman;
+    }
+	
+	h2:nth-of-type(2) {
+	font-family: Helvetica;
+    }
+	
+	h2:nth-of-type(3) {
+	font-family: Verdana;
+    }
+	
+	h2:nth-of-type(4) {
+	font-family: Courier New;
+    }
+	
+	h2:nth-of-type(5) {
+	font-family: Copperplate;
+    }
+	
+	h2:nth-of-type(6) {
+	font-family: Georgia;
+    }
+	
+	h2:last-of-type {
+	font-family: Papyrus;
+    }
